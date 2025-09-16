@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfe16589fd02fcb4a972085b3498b8fb, type: 3}
+  m_Name: DatosDeSpawwnBOLA
+  m_EditorClassIdentifier: 
+  prefabToSpawn: {fileID: 1798738790639885401, guid: 45ea56ac06b65d54ab104170835d77d7,
+    type: 3}
+  spawnCount: 10
+  startPosition: {x: 0, y: 0, z: 0}
+  offset: {x: 2, y: 0, z: 0}
